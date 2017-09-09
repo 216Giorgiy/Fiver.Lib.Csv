@@ -4,7 +4,7 @@ using Moq;
 using System.Collections.Generic;
 using Xunit;
 
-namespace Fiver.Csv.Tests
+namespace Fiver.Lib.Csv.Tests
 {
     public class WriterTests
     {
