@@ -1,6 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <Authors>Tahir Naushad</Authors>
+    <Title>CSV Reader/Writer Library</Title>
+    <Description>This is a library that makes reading and writing CSV files easy</Description>
+    <VersionPrefix>1.0.1</VersionPrefix>
+    <VersionSuffix>beta</VersionSuffix>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
